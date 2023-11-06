@@ -2,6 +2,7 @@
 | Название проекта                | О чем он                                                                                              | Инструменты |
 |---------------------------------|-------------------------------------------------------------------------------------------------------|------------------------|
 | [Cyber attack classification](https://github.com/themjdex/cyber-attack-classification/tree/main)                  | Мультиклассификация трафика на разные типы вредоносного                                 | Pandas, Scikit-Learn, CatBoost, FastAPI, Docker      |
+| [Yandex Music hackathon](https://github.com/themjdex/yandex-music-hackathon/tree/main)                  | Поиск и кластеризация каверов песен только на основе текстов и метаданных в рамках командного хакатона                                | Pandas, SciPy, K-D Tree, SentenceTransformer      |
 # Портфолио учебных проектов
 В алфавитном порядке:
 
