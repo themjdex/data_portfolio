@@ -1,6 +1,7 @@
 # Портфолио pet-проектов и соревнований
 | Название проекта                | О чем он                                                                                              | Инструменты |
 |---------------------------------|-------------------------------------------------------------------------------------------------------|------------------------|
+| [Goods matching for SamokatTech](https://github.com/themjdex/samokat-tech-matching-goods)                  | Мэтчинг товаров маркетплейса по метаданным и векторным данным описаний товаров и изображений. По просьбе заказчика репозиторий приватный, но может быть открыт конкретным интересующимся                                 | Pandas, Scikit-Learn, CatBoost, NumPy     |
 | [Cyber attack classification](https://github.com/themjdex/cyber-attack-classification/tree/main)                  | Мультиклассификация трафика на разные типы вредоносного                                 | Pandas, Scikit-Learn, CatBoost, FastAPI, Docker      |
 | [Yandex Music hackathon](https://github.com/themjdex/yandex-music-hackathon/tree/main)                  | Поиск и кластеризация каверов песен только на основе текстов и метаданных в рамках командного хакатона                                | Pandas, Scikit-Learn, SciPy, K-D Tree, SentenceTransformer      |
 # Портфолио учебных проектов
